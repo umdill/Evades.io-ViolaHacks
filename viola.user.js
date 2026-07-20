@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         viola funny
-// @version :
+// @version : 
 // @description  :
 // @author       kya
 // @match        https://*.evades.io/*
