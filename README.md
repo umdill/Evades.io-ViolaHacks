@@ -1,4 +1,4 @@
-## features
+## features :)
 [ viola clone redraw ] : note : needs one other player ingame to use!!
 
 
